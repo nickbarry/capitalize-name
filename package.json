@@ -1,0 +1,35 @@
+{
+  "name": "capitalize-name",
+  "version": "0.0.1",
+  "description": "Properly capitalize name strings",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickbarry/capitalize-name.git"
+  },
+  "keywords": [
+    "capitalize",
+    "capitalization",
+    "name",
+    "uppercase",
+    "proper",
+    "case",
+    "title",
+    "string"
+  ],
+  "author": "Nico Greenarry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickbarry/capitalize-name/issues"
+  },
+  "homepage": "https://github.com/nickbarry/capitalize-name#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "charlatan": "^1.1.0",
+    "mocha": "^3.1.0"
+  }
+}
